@@ -1,1 +1,1 @@
-# MIT BCI Club
+# BCI Initiative
